@@ -5,7 +5,7 @@ click here for [video demo](https://drive.google.com/file/d/1W_m0fuqZPSxTfsuhbdN
 
 ### Django based movie recommender system
 
-## To open it on the local server follw the steps:
+## To open it on the local server follow the steps:
 
 ### Clone
 
