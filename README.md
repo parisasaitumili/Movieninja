@@ -1,7 +1,7 @@
-# MICROSOFT ENGAGE 2022
+
 
 ## Movieninja  
-click here for [video demo](https://drive.google.com/file/d/1W_m0fuqZPSxTfsuhbdNX7yJkmxv2nHhz/view?usp=drivesdk)
+
 
 ### Django based movie recommender system
 
